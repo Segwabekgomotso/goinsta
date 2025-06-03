@@ -1,8 +1,8 @@
 package tests
 
-import (
+import (instagram
 	"testing"
-)
+code)
 
 func TestImportAccount(t *testing.T) {
 	insta, err := getRandomAccount()
